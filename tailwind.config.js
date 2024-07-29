@@ -9,6 +9,10 @@ export default {
       gridTemplateColumns: {
         '70/30': '70% 28%',
       },
+      colors: {
+        'custom-yellow': 'hsl(51.49, 87.06%, 66.67%)',
+        'custom-brown': 'hsl(24.92, 76.62%, 30.2%)'
+      }
     },
   },
   plugins: [],
