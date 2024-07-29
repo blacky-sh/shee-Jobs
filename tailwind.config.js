@@ -11,7 +11,7 @@ export default {
       },
       colors: {
         'custom-yellow': 'hsl(51.49, 87.06%, 66.67%)',
-        'custom-brown': 'hsl(24.92, 76.62%, 30.2%)'
+        'custom-brown': 'hsl(24.92, 76.62%, 30.2%)',
       }
     },
   },
