@@ -1,4 +1,11 @@
 import React from 'react'
+import {
+  Route,
+  createBrowserRouter,
+  createRoutesFromElements,
+  RouterProvider,
+} from 'react-router-dom'
+
 import Navbar from './components/Navbar.jsx'
 import Hero from './components/Hero.jsx'
 import HomeCards from './components/HomeCards.jsx'
