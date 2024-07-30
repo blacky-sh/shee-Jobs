@@ -35,10 +35,13 @@ const JobListings = ({isHome = false}) => {
         {loading 
         ? (<h2>Loading . . .</h2>
         )
-        : (<>
-        {jobs.map((job)=>(
+        : (
+        <>
+          {jobs.map((job)=>(
             <JobListing key={job.id} job={job}/>
-        ))}
+              )
+            )
+          }
         </>
         )
 }
