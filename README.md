@@ -1,8 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Sheehab</h1>
 
-<h2 align="center">Here is a simple React project that I made while Learning. It is a a job listing frontend. It demonstrates the basic concepts of React.js such as components, props, state, data fetching, and more.</h2>
+<h3 align="center">Here is a simple React project that I made while Learning. It is a a job listing frontend. It demonstrates the basic concepts of React.js such as components, props, state, data fetching, and more.</h3>
 
-<h2> Necessary steps to clone and use this project on your local machine are as follows: </h2>
+<img src='./src/assets/images/sheeJobs.gif' />
+
+<h3> Necessary steps to clone and use this project on your local machine are as follows: </h3>
 
 ## Installation
 
@@ -41,7 +43,7 @@
      npm run server
      npm run dev //ctrl + click on port number to open it.
 
-6.
 
+<h1 align="center"> Thank you for visiting. 🙏</h1>
 
 
