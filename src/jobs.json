@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "ba41",
-      "title": "Test job 1",
-      "type": "Full-Time",
-      "location": "sheeJob's office",
-      "description": "Test Job Description. #2",
-      "salary": "Under $50K",
-      "company": {
-        "name": "sheeJobs",
-        "description": "Hello company desc",
-        "contactEmail": "shee@jobs.com",
-        "contactPhone": "5331085"
-      }
     }
   ]
 }
