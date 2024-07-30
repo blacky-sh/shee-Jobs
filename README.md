@@ -2,7 +2,7 @@
 
 <h3 align="center">Here is a simple React project that I made while Learning. It is a a job listing frontend. It demonstrates the basic concepts of React.js such as components, props, state, data fetching, and more.</h3>
 
-<img align='center' width="auto" src='./src/assets/images/sheeJobs.gif' />
+<img width="100%" src='./src/assets/images/sheeJobs.gif' />
 
 <h3> Necessary steps to clone and use this project on your local machine are as follows: </h3>
 
