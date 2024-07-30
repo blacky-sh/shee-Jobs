@@ -33,7 +33,7 @@ const Hero = () => {
           </h1>
           
           <p className="my-4 text-xl text-white">
-            Find the React job that fits your skills and needs
+            Find the job that fits your skills and needs well.
           </p>
         </div>
       </div>
