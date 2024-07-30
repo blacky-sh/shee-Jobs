@@ -16,6 +16,26 @@
 
 3. Install necessary dependencies:
     ```bash
-    npm install
+    - npm install //install necessary node modules
+    - npm i -D tailwindcss postcss autoprefixer
+        - npx tailwindcss init -p
+    - npm i react-icons
+    - npm i react-router-dom
+    - npm i --save react-spinners
+    - npm i react-toastify
+    - npm i -D json-server
+
+4. After you install, navigate to "package.json" and in the "scripts" object right under "preview": "vite preview", paste this and save:
+    ```bash
+    "server": "json-server --watch src/jobs.json --port 8000"
+
+5. Run the Project:
+- open 2 different terminals and paste this 2 commands and hit Enter:
+    ```bash
+    - npm run server
+    - npm run dev //ctrl + click on port number to open it.
+
+6.
+
 
 
